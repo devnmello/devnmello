@@ -5,6 +5,7 @@
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nicolas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nicolas-Groovy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg">
+  <img align="center" alt="Nicolas-Groovy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
   
   ##
